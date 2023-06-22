@@ -1,0 +1,28 @@
+1) Create list of objects
+EXAMPLE : [
+    {} ,
+    {} ,
+    {}
+]
+
+2) Every objects into list is film.
+
+3) Folm have next attrs : author , rating , title , id
+EXAMPLE :
+{
+    autor : ... ,
+    rating : ... ,
+    title : ... ,
+    id : ...
+}
+
+4) Programm must meet us with greeting ,greeting must be a function
+EXAMPLE :
+"Hello , user!!!!"
+
+5) Programm gives as an access to : 1) menu 2) Film by name 3) Sorted list
+if 1 -> menu gives as an access to : a) All films b) Back if b) -> return to previous of menu
+
+6) Film by name -> you want user to tipe name of move -> if film is exist => print it , otherwise : say sorry , film wasn't defined
+
+7) Return list wich was sorted by rating
